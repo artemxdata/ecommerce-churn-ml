@@ -46,8 +46,10 @@ The analysis will:
    ```bash
    git clone https://github.com/username/ClickGuard-Customer-Retention-Intelligence.git
 2. Install dependencies:
-pip install -r requirements.txt
-3. Run the Jupyter notebooks in the notebooks/ directory to explore the analysis and models.
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the Jupyter notebooks in the notebooks/ directory to explore the analysis and models.
 
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
